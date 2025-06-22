@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/906a45f411304c07a547b049c31b0bb7/artifacts
+end_time: 1750560229865
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 906a45f411304c07a547b049c31b0bb7
+run_name: vaunted-moose-303
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750560229843
+status: 3
+tags: []
+user_id: jvr

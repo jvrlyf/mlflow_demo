@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4f1fc1c804cb46c8992b7d6c52ae318d/artifacts
+end_time: 1750560241583
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f1fc1c804cb46c8992b7d6c52ae318d
+run_name: righteous-gnu-296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750560241562
+status: 3
+tags: []
+user_id: jvr

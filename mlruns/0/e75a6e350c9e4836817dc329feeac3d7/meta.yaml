@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e75a6e350c9e4836817dc329feeac3d7/artifacts
+end_time: 1750509303798
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e75a6e350c9e4836817dc329feeac3d7
+run_name: jvr
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750509303737
+status: 3
+tags: []
+user_id: jvr

@@ -1,0 +1,10 @@
+artifact_location: file:///Volumes/JV-R/Projects/MLOps/Compus_X/mlflow-demo/mlruns/451439445435119883/models/m-c4a0f2e25a7b4826bc0962f9e8e2c42c/artifacts
+creation_timestamp: 1750560555169
+experiment_id: '451439445435119883'
+last_updated_timestamp: 1750560556760
+model_id: m-c4a0f2e25a7b4826bc0962f9e8e2c42c
+model_type: ''
+name: RandomForest
+source_run_id: 40e6fb2d169e4511b473cd5631b96943
+status: 2
+status_message: null

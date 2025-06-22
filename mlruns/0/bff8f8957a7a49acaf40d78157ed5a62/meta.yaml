@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bff8f8957a7a49acaf40d78157ed5a62/artifacts
+end_time: 1750560188113
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bff8f8957a7a49acaf40d78157ed5a62
+run_name: unruly-cat-283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750560188069
+status: 3
+tags: []
+user_id: jvr

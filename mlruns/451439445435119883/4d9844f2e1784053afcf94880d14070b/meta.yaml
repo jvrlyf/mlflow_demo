@@ -1,0 +1,14 @@
+artifact_uri: file:///Volumes/JV-R/Projects/MLOps/Compus_X/mlflow-demo/mlruns/451439445435119883/4d9844f2e1784053afcf94880d14070b/artifacts
+end_time: 1750561766247
+entry_point_name: ''
+experiment_id: '451439445435119883'
+lifecycle_stage: active
+run_id: 4d9844f2e1784053afcf94880d14070b
+run_name: jvr
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750561764637
+status: 3
+tags: []
+user_id: jvr

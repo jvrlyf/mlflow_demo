@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dbbd98ff239745609b1c9e8413a8c9e7/artifacts
+end_time: 1750560382643
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dbbd98ff239745609b1c9e8413a8c9e7
+run_name: amusing-smelt-615
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750560382624
+status: 3
+tags: []
+user_id: jvr

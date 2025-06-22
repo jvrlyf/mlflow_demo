@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1f844bbe6c634f9580d26b64605defa8/artifacts
+deleted_time: 1750509260172
+end_time: 1750477364662
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1f844bbe6c634f9580d26b64605defa8
+run_name: exultant-whale-772
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750477364621
+status: 4
+tags: []
+user_id: jvr
